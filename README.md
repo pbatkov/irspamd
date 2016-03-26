@@ -7,8 +7,6 @@ Use this software at your own risk. I am not responsible for damage or loss of d
 Install rspamd as described [here](https://rspamd.com/downloads.html). Make sure,
 rspamd is running and rspamc is on the PATH. irspamd assumes rspamds runs on http://localhost:11333.
 
-```
-```
 #### global params
 * `--host, -H` Host to connect to. Default is localhost.
 * `--port, -P` Port number to connect to. Default is 993
